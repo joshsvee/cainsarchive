@@ -1,2 +1,4 @@
-# cainsarchive
-Diablo 3 Model Viewer Project
+cainsarchive
+============
+
+Diablo 3 Model Viewer
